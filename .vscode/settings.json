@@ -1,0 +1,6 @@
+{
+	"files.associations": {
+		"*.todo": "dockercompose",
+		"ft_printf.h": "c"
+	}
+}
